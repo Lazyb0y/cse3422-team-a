@@ -8,7 +8,7 @@ Every member writes code. Roles say who leads an area, not who does all of it.
 
 | Name | GitHub | Role(s) | Strength we can rely on | Something I want to learn |
 |---|---|---|---|---|
-| | @ | Team lead / Scrum master | | |
+| Foysal Ahamed | [@Lazyb0y](https://github.com/Lazyb0y) | Team lead / Scrum master | I have 7 years of hands-on experience | bla bla |
 | | @ | Backend lead | | |
 | | @ | Frontend lead | | |
 | | @ | Quality and DevOps lead | | |
